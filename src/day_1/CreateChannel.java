@@ -4,6 +4,7 @@ public class CreateChannel {
 
     public static void main(String[] args) {
         System.out.println("Slack");
+        System.out.println("Slack2");
     }
 
 }
